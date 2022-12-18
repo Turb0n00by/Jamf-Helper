@@ -1,4 +1,4 @@
-# Jamf-Helper
+# Jamf-Scripts
 
 Scripts used with jamf Helper.app
 
